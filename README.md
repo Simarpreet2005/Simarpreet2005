@@ -2,19 +2,8 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Java, C++, JavaScript, PHP | SQL, MySQL | HTML, CSS, Tailwind CSS | DSA Enthusiast | Developing Full Stack Expertise</h3>
 
 <p align="center">
-  <b>
-    <span style="color:#FFB6C1; font-weight: bold; animation: blinker 1s linear infinite;">
-      while(true) { learn(); improve(); }
-    </span>
-  </b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFB6C1&center=true&vCenter=true&width=600&lines=while(true)+%7B+learn();+improve();+%7D" alt="blinking code" />
 </p>
-
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
-
 
 ---
 
@@ -36,13 +25,13 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/simarpreet2005" target="_blank">
+  <a href="https://www.linkedin.com/in/simar0498" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:simarpreet2005official@gmail.com">
+  <a href="mailto:simarsandhu0498@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Simarpreet2005" target="_blank">
+  <a href="https://leetcode.com/u/Simarpreet2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
