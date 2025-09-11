@@ -17,7 +17,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,php,html,css,tailwind,bootstrap,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,php,html,css,tailwind,bootstrap,mysql,mongodb,nodejs,react,git,github,vscode,linux" />
 </p>
 
 ---
