@@ -11,7 +11,11 @@
 
 - 🎓 Pursuing **B.Tech CSE** at **Lovely Professional University** with a minor in Full Stack Development  
 - 🎯 Consistently solving DSA problems on **LeetCode**   
--  🌟 **GSSoC 2025 (GirlScript Summer of Code) Contributor** 
+-  🌟 **GSSoC 2025 (GirlScript Summer of Code) Contributor**
+  <p align="center">
+<img src="https://raw.githubusercontent.com/Simarpreet2005/Simarpreet2005/refs/heads/main/Contributor's%20badge.jpg" />
+</p>
+  
 ---
 
 ### 🚀 Languages and Tools
