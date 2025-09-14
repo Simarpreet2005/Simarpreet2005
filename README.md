@@ -46,7 +46,7 @@
 ### 📈 GitHub Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Simarpreet2005&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Simarpreet2005&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 
