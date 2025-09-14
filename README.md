@@ -26,6 +26,23 @@
 
 ---
 
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simarpreet2005&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreet2005&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simarpreet2005&layout=compact&theme=radical" />
+</p>
+
+
 ### 📬 Let's Connect
 
 <p align="center">
