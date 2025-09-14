@@ -43,6 +43,13 @@
 </p>
 
 
+### 📈 GitHub Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Simarpreet2005&theme=react-dark&area=true" />
+</p>
+
+
 ### 📬 Let's Connect
 
 <p align="center">
