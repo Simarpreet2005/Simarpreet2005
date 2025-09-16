@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreet2005&theme=radical" />
+  <img src="https://streak-stats.vercel.app/?user=Simarpreet2005&theme=radical" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ### 📈 GitHub Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Simarpreet2005&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simarpreet2005&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 
