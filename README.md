@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simarpreet Kaur</h1>
-<h3 align="center">🚀Aspiring Software Engineer | Java, C++, C, Python, JavaScript, PHP | SQL, MySQL, MongoDB, PostgreSQL | HTML, CSS, Tailwind CSS, Bootstrap | React, Node.js, Express | DSA Enthusiast | Developing Full Stack Expertise |🌟 GSSoC 2025 Contributor</h3>
+<h3 align="center">🚀Aspiring Software Engineer | Java, C++, C, Python, JavaScript, PHP | SQL, MySQL, MongoDB, PostgreSQL | HTML, CSS, Tailwind CSS, Bootstrap | React, Node.js, Express, SpringBoot | DSA Enthusiast | Developing Full Stack Expertise |🌟 GSSoC 2025 and 2026 Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFB6C1&center=true&vCenter=true&width=600&lines=while(true)+%7B+learn();+improve();+%7D" alt="blinking code" />
@@ -11,10 +11,7 @@
 
 - 🎓 Pursuing **B.Tech CSE** at **Lovely Professional University** with a minor in Full Stack Development  
 - 🎯 Consistently solving DSA problems on **LeetCode**   
--  🌟 **GSSoC 2025 (GirlScript Summer of Code) Contributor**
-  <p align="center">
-<img src="https://raw.githubusercontent.com/Simarpreet2005/Simarpreet2005/refs/heads/main/Contributor's%20badge.jpg" />
-</p>
+-  🌟 **GSSoC 2026 (GirlScript Summer of Code) Contributor**
   
 ---
 
